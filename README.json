@@ -1,0 +1,294 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mole",
+          "description": "Best terminal Free tool to reclaim space from your mac",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-10T18:18:10Z",
+            "owner": "tw93",
+            "repo": "Mole",
+            "stars": 63301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pearcleaner",
+          "description": "free mac app cleaner inspired by Freemacsoft's AppCleaner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-06-22T18:49:18Z",
+            "owner": "alienator88",
+            "repo": "Pearcleaner",
+            "stars": 14310
+          }
+        }
+      ],
+      "title": "Memory/Files/App cleanup"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fzf",
+          "description": "fuzzy finder for the terminal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T14:44:46Z",
+            "owner": "junegunn",
+            "repo": "fzf",
+            "stars": 82536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rg",
+          "description": "like ack but faster",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-04T13:59:44Z",
+            "owner": "BurntSushi",
+            "repo": "ripgrep",
+            "stars": 67267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bat",
+          "description": "better than cat",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T14:39:20Z",
+            "owner": "sharkdp",
+            "repo": "bat",
+            "stars": 60220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fd",
+          "description": "a better alternative to find",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T17:42:55Z",
+            "owner": "sharkdp",
+            "repo": "fd",
+            "stars": 44057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eza",
+          "description": "ls but better, with colors",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-06T19:53:22Z",
+            "owner": "eza-community",
+            "repo": "eza",
+            "stars": 22914
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "z",
+          "description": "jump around most used folders!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-06-19T08:00:48Z",
+            "owner": "rupa",
+            "repo": "z",
+            "stars": 17040
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mac-cli",
+          "description": "Control your mac from the terminal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-28T02:21:48Z",
+            "owner": "guarinogabriel",
+            "repo": "Mac-CLI",
+            "stars": 9116
+          }
+        }
+      ],
+      "title": "Terminal / Terminal tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lulu",
+          "description": "Firewall for Mac Os",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2026-08-05T16:19:32Z",
+            "owner": "objective-see",
+            "repo": "LuLu",
+            "stars": 13041
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeoHtop",
+          "description": "Task manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-03-30T08:15:15Z",
+            "owner": "Abdenasser",
+            "repo": "neohtop",
+            "stars": 9265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notunes",
+          "description": "Avoid auto-launching Itunes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-08-08T21:26:42Z",
+            "owner": "tombonez",
+            "repo": "noTunes",
+            "stars": 5980
+          }
+        }
+      ],
+      "title": "Utils"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kap",
+          "description": "Screen recording tool (use it for quick gif making usually)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-11-12T15:32:40Z",
+            "owner": "wulkano",
+            "repo": "Kap",
+            "stars": 19315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NoTunes",
+          "description": "Block Itunes / Apple Music once and for all",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-08-08T21:26:42Z",
+            "owner": "tombonez",
+            "repo": "noTunes",
+            "stars": 5980
+          }
+        }
+      ],
+      "title": "Audio/Video tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nvm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-24T19:11:41Z",
+            "owner": "nvm-sh",
+            "repo": "nvm",
+            "stars": 94561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nvm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-24T19:11:41Z",
+            "owner": "nvm-sh",
+            "repo": "nvm",
+            "stars": 94561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LazyGit",
+          "description": "Git UI in terminal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T19:28:18Z",
+            "owner": "jesseduffield",
+            "repo": "lazygit",
+            "stars": 81276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jj",
+          "description": "git on steroids",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T04:21:46Z",
+            "owner": "jj-vcs",
+            "repo": "jj",
+            "stars": 30960
+          }
+        }
+      ],
+      "title": "Developer tools"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:22:40.040Z",
+    "original_repository": "tonnoz/super-awesome-mac",
+    "original_repository_sha": "00630425408e5c6856aaf0851577dc72f0840a58",
+    "enhanced_repository": "enhansome/super-enhansome-mac",
+    "enhanced_repository_description": null,
+    "title": "Super Awesome Mac with stars"
+  }
+}
