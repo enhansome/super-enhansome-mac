@@ -14,7 +14,7 @@
             "last_commit": "2026-08-10T18:18:10Z",
             "owner": "tw93",
             "repo": "Mole",
-            "stars": 63445
+            "stars": 63536
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-06-22T18:49:18Z",
             "owner": "alienator88",
             "repo": "Pearcleaner",
-            "stars": 14315
+            "stars": 14328
           }
         }
       ],
@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-11T14:44:46Z",
+            "last_commit": "2026-08-14T10:16:53Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82552
+            "stars": 82526
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-08-04T13:59:44Z",
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67308
+            "stars": 67288
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2026-08-11T14:39:20Z",
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60232
+            "stars": 60182
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-11T17:42:55Z",
             "owner": "sharkdp",
             "repo": "fd",
-            "stars": 44076
+            "stars": 44087
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2026-08-06T19:53:22Z",
             "owner": "eza-community",
             "repo": "eza",
-            "stars": 22924
+            "stars": 22932
           }
         },
         {
@@ -166,7 +166,7 @@
             "last_commit": "2026-03-30T08:15:15Z",
             "owner": "Abdenasser",
             "repo": "neohtop",
-            "stars": 9266
+            "stars": 9286
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2024-08-08T21:26:42Z",
             "owner": "tombonez",
             "repo": "noTunes",
-            "stars": 5981
+            "stars": 5984
           }
         }
       ],
@@ -200,7 +200,7 @@
             "last_commit": "2024-11-12T15:32:40Z",
             "owner": "wulkano",
             "repo": "Kap",
-            "stars": 19317
+            "stars": 19323
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2024-08-08T21:26:42Z",
             "owner": "tombonez",
             "repo": "noTunes",
-            "stars": 5981
+            "stars": 5984
           }
         }
       ],
@@ -234,7 +234,7 @@
             "last_commit": "2026-07-24T19:11:41Z",
             "owner": "nvm-sh",
             "repo": "nvm",
-            "stars": 94579
+            "stars": 94583
           }
         },
         {
@@ -248,7 +248,7 @@
             "last_commit": "2026-07-24T19:11:41Z",
             "owner": "nvm-sh",
             "repo": "nvm",
-            "stars": 94579
+            "stars": 94583
           }
         },
         {
@@ -259,10 +259,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T18:51:39Z",
+            "last_commit": "2026-08-14T21:04:07Z",
             "owner": "jesseduffield",
             "repo": "lazygit",
-            "stars": 81321
+            "stars": 81338
           }
         },
         {
@@ -273,10 +273,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T01:07:38Z",
+            "last_commit": "2026-08-14T17:17:14Z",
             "owner": "jj-vcs",
             "repo": "jj",
-            "stars": 30970
+            "stars": 30981
           }
         }
       ],
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T04:04:24.056Z",
+    "last_updated": "2026-08-15T02:47:46.954Z",
     "original_repository": "tonnoz/super-awesome-mac",
     "original_repository_sha": "00630425408e5c6856aaf0851577dc72f0840a58",
     "enhanced_repository": "enhansome/super-enhansome-mac",
