@@ -5,6 +5,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Yazi",
+          "description": "Blazing Fast Terminal File Manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 663900193,
+            "language": "Rust",
+            "last_commit": "2026-08-23T17:03:08Z",
+            "owner": "sxyazi",
+            "repo": "yazi",
+            "stars": 41638
+          }
+        }
+      ],
+      "title": "File Management"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MonitorControl",
+          "description": "Easily control the brightness of external Displays",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 103784142,
+            "language": "Swift",
+            "last_commit": "2026-08-11T12:43:28Z",
+            "owner": "MonitorControl",
+            "repo": "MonitorControl",
+            "stars": 34021
+          }
+        }
+      ],
+      "title": "Display"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Mole",
           "description": "Best terminal Free tool to reclaim space from your mac",
           "children": [],
@@ -15,7 +57,7 @@
             "last_commit": "2026-08-23T13:42:20Z",
             "owner": "tw93",
             "repo": "Mole",
-            "stars": 64682
+            "stars": 64760
           }
         },
         {
@@ -51,7 +93,7 @@
             "last_commit": "2026-08-24T01:02:41Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82626
+            "stars": 82633
           }
         },
         {
@@ -66,7 +108,7 @@
             "last_commit": "2026-08-04T13:59:44Z",
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67532
+            "stars": 67555
           }
         },
         {
@@ -96,7 +138,7 @@
             "last_commit": "2026-08-11T17:42:55Z",
             "owner": "sharkdp",
             "repo": "fd",
-            "stars": 44184
+            "stars": 44188
           }
         },
         {
@@ -111,7 +153,7 @@
             "last_commit": "2026-08-06T19:53:22Z",
             "owner": "eza-community",
             "repo": "eza",
-            "stars": 23018
+            "stars": 23022
           }
         },
         {
@@ -162,7 +204,7 @@
             "last_commit": "2026-08-05T16:19:32Z",
             "owner": "objective-see",
             "repo": "LuLu",
-            "stars": 13093
+            "stars": 13096
           }
         },
         {
@@ -177,7 +219,7 @@
             "last_commit": "2026-03-30T08:15:15Z",
             "owner": "Abdenasser",
             "repo": "neohtop",
-            "stars": 9311
+            "stars": 9315
           }
         },
         {
@@ -192,7 +234,7 @@
             "last_commit": "2024-08-08T21:26:42Z",
             "owner": "tombonez",
             "repo": "noTunes",
-            "stars": 6002
+            "stars": 6004
           }
         }
       ],
@@ -228,11 +270,53 @@
             "last_commit": "2024-08-08T21:26:42Z",
             "owner": "tombonez",
             "repo": "noTunes",
-            "stars": 6002
+            "stars": 6004
           }
         }
       ],
       "title": "Audio/Video tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Handy",
+          "description": "Enanched Speech-to-text for the prompting hera",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 931888694,
+            "language": "Rust",
+            "last_commit": "2026-08-24T08:57:57Z",
+            "owner": "cjpais",
+            "repo": "Handy",
+            "stars": 30207
+          }
+        }
+      ],
+      "title": "Prompting"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Easy-Move-Resize",
+          "description": "Use hot key to move windows around, Linux style",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14563286,
+            "language": "Objective-C",
+            "last_commit": "2026-05-11T01:44:46Z",
+            "owner": "dmarcotte",
+            "repo": "easy-move-resize",
+            "stars": 1330
+          }
+        }
+      ],
+      "title": "Desktop management apps"
     },
     {
       "description": null,
@@ -249,7 +333,7 @@
             "last_commit": "2026-08-18T06:42:47Z",
             "owner": "nvm-sh",
             "repo": "nvm",
-            "stars": 94701
+            "stars": 94710
           }
         },
         {
@@ -264,7 +348,7 @@
             "last_commit": "2026-08-18T06:42:47Z",
             "owner": "nvm-sh",
             "repo": "nvm",
-            "stars": 94701
+            "stars": 94710
           }
         },
         {
@@ -279,7 +363,7 @@
             "last_commit": "2026-08-21T11:34:49Z",
             "owner": "jesseduffield",
             "repo": "lazygit",
-            "stars": 81575
+            "stars": 81591
           }
         },
         {
@@ -291,10 +375,10 @@
             "archived": false,
             "id": 322484700,
             "language": "Rust",
-            "last_commit": "2026-08-24T01:18:19Z",
+            "last_commit": "2026-08-24T14:22:06Z",
             "owner": "jj-vcs",
             "repo": "jj",
-            "stars": 31151
+            "stars": 31159
           }
         }
       ],
@@ -302,7 +386,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:59:09.169Z",
+    "last_updated": "2026-08-24T14:22:32.362Z",
     "original_repository": "tonnoz/super-awesome-mac",
     "original_repository_id": 577688909,
     "original_repository_sha": "00630425408e5c6856aaf0851577dc72f0840a58",
