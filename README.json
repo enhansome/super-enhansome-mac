@@ -12,10 +12,10 @@
             "archived": false,
             "id": 663900193,
             "language": "Rust",
-            "last_commit": "2026-08-23T17:03:08Z",
+            "last_commit": "2026-08-24T23:23:52Z",
             "owner": "sxyazi",
             "repo": "yazi",
-            "stars": 41638
+            "stars": 41646
           }
         }
       ],
@@ -36,7 +36,7 @@
             "last_commit": "2026-08-11T12:43:28Z",
             "owner": "MonitorControl",
             "repo": "MonitorControl",
-            "stars": 34021
+            "stars": 34025
           }
         }
       ],
@@ -54,10 +54,10 @@
             "archived": false,
             "id": 1062356571,
             "language": "Shell",
-            "last_commit": "2026-08-23T13:42:20Z",
+            "last_commit": "2026-08-24T18:20:38Z",
             "owner": "tw93",
             "repo": "Mole",
-            "stars": 64760
+            "stars": 64822
           }
         },
         {
@@ -72,7 +72,7 @@
             "last_commit": "2026-06-22T18:49:18Z",
             "owner": "alienator88",
             "repo": "Pearcleaner",
-            "stars": 14412
+            "stars": 14415
           }
         }
       ],
@@ -93,7 +93,7 @@
             "last_commit": "2026-08-24T01:02:41Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82633
+            "stars": 82638
           }
         },
         {
@@ -108,7 +108,7 @@
             "last_commit": "2026-08-04T13:59:44Z",
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67555
+            "stars": 67570
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-08-11T14:39:20Z",
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60240
+            "stars": 60246
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-08-11T17:42:55Z",
             "owner": "sharkdp",
             "repo": "fd",
-            "stars": 44188
+            "stars": 44190
           }
         },
         {
@@ -153,7 +153,7 @@
             "last_commit": "2026-08-06T19:53:22Z",
             "owner": "eza-community",
             "repo": "eza",
-            "stars": 23022
+            "stars": 23027
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2024-06-19T08:00:48Z",
             "owner": "rupa",
             "repo": "z",
-            "stars": 17045
+            "stars": 17043
           }
         },
         {
@@ -219,7 +219,7 @@
             "last_commit": "2026-03-30T08:15:15Z",
             "owner": "Abdenasser",
             "repo": "neohtop",
-            "stars": 9315
+            "stars": 9317
           }
         },
         {
@@ -234,7 +234,7 @@
             "last_commit": "2024-08-08T21:26:42Z",
             "owner": "tombonez",
             "repo": "noTunes",
-            "stars": 6004
+            "stars": 6006
           }
         }
       ],
@@ -270,7 +270,7 @@
             "last_commit": "2024-08-08T21:26:42Z",
             "owner": "tombonez",
             "repo": "noTunes",
-            "stars": 6004
+            "stars": 6006
           }
         }
       ],
@@ -288,10 +288,10 @@
             "archived": false,
             "id": 931888694,
             "language": "Rust",
-            "last_commit": "2026-08-24T08:57:57Z",
+            "last_commit": "2026-08-25T00:06:44Z",
             "owner": "cjpais",
             "repo": "Handy",
-            "stars": 30207
+            "stars": 30247
           }
         }
       ],
@@ -333,7 +333,7 @@
             "last_commit": "2026-08-18T06:42:47Z",
             "owner": "nvm-sh",
             "repo": "nvm",
-            "stars": 94710
+            "stars": 94721
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2026-08-18T06:42:47Z",
             "owner": "nvm-sh",
             "repo": "nvm",
-            "stars": 94710
+            "stars": 94721
           }
         },
         {
@@ -363,7 +363,7 @@
             "last_commit": "2026-08-21T11:34:49Z",
             "owner": "jesseduffield",
             "repo": "lazygit",
-            "stars": 81591
+            "stars": 81605
           }
         },
         {
@@ -375,10 +375,10 @@
             "archived": false,
             "id": 322484700,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:22:06Z",
+            "last_commit": "2026-08-25T02:45:24Z",
             "owner": "jj-vcs",
             "repo": "jj",
-            "stars": 31159
+            "stars": 31177
           }
         }
       ],
@@ -386,7 +386,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:22:32.362Z",
+    "last_updated": "2026-08-25T02:54:30.595Z",
     "original_repository": "tonnoz/super-awesome-mac",
     "original_repository_id": 577688909,
     "original_repository_sha": "00630425408e5c6856aaf0851577dc72f0840a58",
