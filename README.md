@@ -37,7 +37,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 
 ### Memory/Files/App cleanup
 
-* [Mole](https://github.com/tw93/Mole) ⭐ 65,088 | 🐛 1 | 🌐 Shell | 📅 2026-08-27 Best terminal Free tool to reclaim space from your mac
+* [Mole](https://github.com/tw93/Mole) ⭐ 65,089 | 🐛 1 | 🌐 Shell | 📅 2026-08-27 Best terminal Free tool to reclaim space from your mac
 * [Pearcleaner](https://github.com/alienator88/Pearcleaner) ⭐ 14,436 | 🐛 81 | 🌐 Swift | 📅 2026-06-22 free mac app cleaner inspired by Freemacsoft's AppCleaner
 
 ### Terminal / Terminal tools
