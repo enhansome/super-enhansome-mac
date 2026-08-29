@@ -10,12 +10,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+            "homepage": "https://yazi-rs.github.io",
             "id": 663900193,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-26T18:52:38Z",
+            "open_issues": 70,
             "owner": "sxyazi",
             "repo": "yazi",
-            "stars": 41750
+            "stars": 41765,
+            "topics": [
+              "android",
+              "asyncio",
+              "cli",
+              "command-line",
+              "concurrency",
+              "cross-platform",
+              "developer-tools",
+              "file-explorer",
+              "file-manager",
+              "filesystem",
+              "linux",
+              "macos",
+              "neovim",
+              "productivity",
+              "rust",
+              "terminal",
+              "tui",
+              "vim",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
         }
@@ -32,12 +57,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.",
+            "homepage": "https://monitorcontrol.app",
             "id": 103784142,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-11T12:43:28Z",
+            "open_issues": 25,
             "owner": "MonitorControl",
             "repo": "MonitorControl",
-            "stars": 34054
+            "stars": 34057,
+            "topics": [
+              "apple",
+              "brightness",
+              "control",
+              "ddc",
+              "display",
+              "external-monitor",
+              "gamma",
+              "keyboard",
+              "m1",
+              "macos",
+              "macos-app",
+              "menubar",
+              "osx",
+              "shade",
+              "silicon",
+              "swift",
+              "volume",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
         }
@@ -54,12 +103,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.",
+            "homepage": "https://mole.fit",
             "id": 1062356571,
             "language": "Shell",
-            "last_commit": "2026-08-28T09:52:12Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T04:02:16Z",
+            "open_issues": 1,
             "owner": "tw93",
             "repo": "Mole",
-            "stars": 65174
+            "stars": 65213,
+            "topics": [
+              "analyzer",
+              "appcleaner",
+              "clean",
+              "cleaner",
+              "cleanmymac",
+              "command-line",
+              "daisydisk",
+              "istat",
+              "mac",
+              "macos",
+              "macos-app",
+              "native",
+              "optimize",
+              "pearcleaner",
+              "sensei",
+              "shell",
+              "swift",
+              "swiftui",
+              "uninstall"
+            ]
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
         },
@@ -70,12 +144,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A free, source-available and fair-code licensed mac app cleaner",
+            "homepage": "https://itsalin.com/appInfo/?id=pearcleaner",
             "id": 717960955,
             "language": "Swift",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-22T18:49:18Z",
+            "open_issues": 81,
             "owner": "alienator88",
             "repo": "Pearcleaner",
-            "stars": 14451
+            "stars": 14465,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
         }
@@ -92,12 +171,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":cherry_blossom: A command-line fuzzy finder",
+            "homepage": "https://junegunn.github.io/fzf/",
             "id": 13807606,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-26T00:07:09Z",
+            "open_issues": 327,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82691
+            "stars": 82702,
+            "topics": [
+              "bash",
+              "cli",
+              "fish",
+              "fzf",
+              "go",
+              "neovim",
+              "tmux",
+              "unix",
+              "vim",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
         },
@@ -108,12 +203,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+            "homepage": null,
             "id": 53631945,
             "language": "Rust",
+            "license": "Unlicense",
             "last_commit": "2026-08-04T13:59:44Z",
+            "open_issues": 183,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67664
+            "stars": 67677,
+            "topics": [
+              "cli",
+              "command-line",
+              "command-line-tool",
+              "gitignore",
+              "grep",
+              "recursively-search",
+              "regex",
+              "ripgrep",
+              "rust",
+              "search"
+            ]
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
         },
@@ -124,12 +235,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cat(1) clone with wings.",
+            "homepage": null,
             "id": 130464961,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T14:39:20Z",
+            "open_issues": 424,
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60283
+            "stars": 60289,
+            "topics": [
+              "cli",
+              "command-line",
+              "git",
+              "hacktoberfest",
+              "rust",
+              "syntax-highlighting",
+              "terminal",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
         },
@@ -140,12 +265,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, fast and user-friendly alternative to 'find'",
+            "homepage": null,
             "id": 90793418,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T05:52:24Z",
+            "open_issues": 196,
             "owner": "sharkdp",
             "repo": "fd",
-            "stars": 44228
+            "stars": 44237,
+            "topics": [
+              "cli",
+              "command-line",
+              "filesystem",
+              "hacktoberfest",
+              "regex",
+              "rust",
+              "search",
+              "terminal",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
         },
@@ -156,12 +296,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern alternative to ls",
+            "homepage": "https://eza.rocks",
             "id": 671832156,
             "language": "Rust",
+            "license": "EUPL-1.2",
             "last_commit": "2026-08-06T19:53:22Z",
+            "open_issues": 438,
             "owner": "eza-community",
             "repo": "eza",
-            "stars": 23067
+            "stars": 23070,
+            "topics": [
+              "color",
+              "command-line",
+              "files",
+              "hacktoberfest",
+              "icons",
+              "ls",
+              "nerd-fonts",
+              "rust",
+              "terminal",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
         },
@@ -172,12 +328,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "z - jump around",
+            "homepage": null,
             "id": 236571,
             "language": "Shell",
+            "license": "WTFPL",
             "last_commit": "2024-06-19T08:00:48Z",
+            "open_issues": 107,
             "owner": "rupa",
             "repo": "z",
-            "stars": 17043
+            "stars": 17043,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
         },
@@ -188,12 +349,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.",
+            "homepage": null,
             "id": 47524979,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-02-28T02:21:48Z",
+            "open_issues": 0,
             "owner": "guarinogabriel",
             "repo": "Mac-CLI",
-            "stars": 9118
+            "stars": 9118,
+            "topics": [
+              "bash",
+              "cli",
+              "command-line-tool",
+              "linux",
+              "macos",
+              "productivity",
+              "productivity-tools"
+            ]
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
         }
@@ -210,12 +384,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LuLu is the free open-source macOS firewall",
+            "homepage": "https://objective-see.org/products/lulu.html",
             "id": 103010090,
             "language": "Objective-C",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-05T16:19:32Z",
+            "open_issues": 524,
             "owner": "objective-see",
             "repo": "LuLu",
-            "stars": 13110
+            "stars": 13111,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
         },
@@ -226,12 +405,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)",
+            "homepage": "https://abdenasser.github.io/neohtop/",
             "id": 881053158,
             "language": "Svelte",
+            "license": "MIT",
             "last_commit": "2026-03-30T08:15:15Z",
+            "open_issues": 19,
             "owner": "Abdenasser",
             "repo": "neohtop",
-            "stars": 9323
+            "stars": 9324,
+            "topics": [
+              "activity",
+              "btop",
+              "cross-platform",
+              "htop",
+              "monitoring",
+              "rust",
+              "svelte",
+              "system"
+            ]
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
         },
@@ -242,12 +435,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple macOS application that will prevent iTunes or Apple Music from launching.",
+            "homepage": null,
             "id": 78055849,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-08-08T21:26:42Z",
+            "open_issues": 29,
             "owner": "tombonez",
             "repo": "noTunes",
-            "stars": 6013
+            "stars": 6017,
+            "topics": [
+              "itunes",
+              "macos",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
         }
@@ -264,12 +466,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source screen recorder built with web technology",
+            "homepage": "https://getkap.co",
             "id": 65411043,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-11-12T15:32:40Z",
+            "open_issues": 254,
             "owner": "wulkano",
             "repo": "Kap",
-            "stars": 19339
+            "stars": 19341,
+            "topics": [
+              "aperture",
+              "app",
+              "capture",
+              "communication",
+              "electron",
+              "javascript",
+              "kap",
+              "mac",
+              "macos",
+              "nextjs",
+              "open-source",
+              "oss",
+              "productivity",
+              "record",
+              "screen-capture",
+              "screen-recorder"
+            ]
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
         },
@@ -280,12 +504,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple macOS application that will prevent iTunes or Apple Music from launching.",
+            "homepage": null,
             "id": 78055849,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-08-08T21:26:42Z",
+            "open_issues": 29,
             "owner": "tombonez",
             "repo": "noTunes",
-            "stars": 6013
+            "stars": 6017,
+            "topics": [
+              "itunes",
+              "macos",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
         }
@@ -302,12 +535,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+            "homepage": "https://handy.computer",
             "id": 931888694,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-26T07:44:49Z",
+            "open_issues": 163,
             "owner": "cjpais",
             "repo": "Handy",
-            "stars": 30504
+            "stars": 30573,
+            "topics": [
+              "accessibility",
+              "cross-platform",
+              "speech-to-text",
+              "tauri-v2"
+            ]
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
         }
@@ -324,12 +567,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adds \"modifier key + mouse drag\" move and resize to OSX",
+            "homepage": null,
             "id": 14563286,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2026-05-11T01:44:46Z",
+            "open_issues": 37,
             "owner": "dmarcotte",
             "repo": "easy-move-resize",
-            "stars": 1330
+            "stars": 1330,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
         }
@@ -346,12 +594,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
+            "homepage": null,
             "id": 612230,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-18T06:42:47Z",
+            "open_issues": 396,
             "owner": "nvm-sh",
             "repo": "nvm",
-            "stars": 94766
+            "stars": 94771,
+            "topics": [
+              "bash",
+              "install",
+              "lts",
+              "node",
+              "node-js",
+              "nodejs",
+              "nvm",
+              "nvmrc",
+              "posix",
+              "posix-compliant",
+              "shell",
+              "version-manager",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
         },
@@ -362,12 +629,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
+            "homepage": null,
             "id": 612230,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-18T06:42:47Z",
+            "open_issues": 396,
             "owner": "nvm-sh",
             "repo": "nvm",
-            "stars": 94766
+            "stars": 94771,
+            "topics": [
+              "bash",
+              "install",
+              "lts",
+              "node",
+              "node-js",
+              "nodejs",
+              "nvm",
+              "nvmrc",
+              "posix",
+              "posix-compliant",
+              "shell",
+              "version-manager",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
         },
@@ -378,12 +664,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "simple terminal UI for git commands",
+            "homepage": null,
             "id": 134017286,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-27T17:38:28Z",
+            "open_issues": 1024,
             "owner": "jesseduffield",
             "repo": "lazygit",
-            "stars": 81724
+            "stars": 81737,
+            "topics": [
+              "cli",
+              "git",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
         },
@@ -394,12 +689,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Git-compatible VCS that is both simple and powerful",
+            "homepage": "https://jj-vcs.dev",
             "id": 322484700,
             "language": "Rust",
-            "last_commit": "2026-08-28T12:19:19Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:54:29Z",
+            "open_issues": 1213,
             "owner": "jj-vcs",
             "repo": "jj",
-            "stars": 31240
+            "stars": 31253,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
         }
@@ -408,15 +708,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:43:26.058Z",
+    "last_updated": "2026-08-29T04:43:19.291Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated collection of my favorite (free) apps for MacOs",
+      "homepage": null,
       "id": 577688909,
       "language": null,
+      "license": null,
       "last_commit": "2026-02-15T14:52:37Z",
+      "open_issues": 9,
       "owner": "tonnoz",
       "repo": "super-awesome-mac",
-      "stars": 526
+      "stars": 526,
+      "topics": [
+        "awesome-list",
+        "awesome-readme",
+        "mac",
+        "macos"
+      ]
     },
     "original_repository_sha": "00630425408e5c6856aaf0851577dc72f0840a58",
     "enhanced_repository": "enhansome/super-enhansome-mac",
