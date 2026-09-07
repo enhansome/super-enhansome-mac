@@ -2,14 +2,14 @@
 
 <!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;-->
 
-[![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,395 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,756 | 🐛 106 | 📅 2026-09-02
 [![Backers on Open Collective](https://opencollective.com/awesome-mac/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/awesome-mac/sponsors/badge.svg)](#sponsors)
 
 <!--rehype:style=text-align: center;-->
 
 A curated collection of tools to get the most out of you Mac
 
-For a non-curated list please refer to the more general : [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 112,611 | 🐛 813 | 🌐 Swift | 📅 2026-09-05
+For a non-curated list please refer to the more general : [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 113,040 | 🐛 826 | 🌐 Swift | 📅 2026-09-07
 
 Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' target='_blank'><img height='28' style='border:0px;height:28px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
@@ -24,7 +24,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 
 ### File Management
 
-* [Yazi](https://github.com/sxyazi/yazi) ⭐ 41,968 | 🐛 67 | 🌐 Rust | 📅 2026-09-01 Blazing Fast Terminal File Manager
+* [Yazi](https://github.com/sxyazi/yazi) ⭐ 41,996 | 🐛 70 | 🌐 Rust | 📅 2026-09-01 Blazing Fast Terminal File Manager
 * [Commander One](https://apps.apple.com/nl/app/commander-one-file-manager/id1035236694?mt=12) commander-like file manager
 
 ### Email
@@ -33,22 +33,22 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 
 ### Display
 
-* [MonitorControl](https://github.com/MonitorControl/MonitorControl) ⭐ 34,112 | 🐛 23 | 🌐 Swift | 📅 2026-08-31 Easily control the brightness of external Displays
+* [MonitorControl](https://github.com/MonitorControl/MonitorControl) ⭐ 34,122 | 🐛 23 | 🌐 Swift | 📅 2026-08-31 Easily control the brightness of external Displays
 
 ### Memory/Files/App cleanup
 
-* [Mole](https://github.com/tw93/Mole) ⭐ 66,339 | 🐛 0 | 🌐 Shell | 📅 2026-09-05 Best terminal Free tool to reclaim space from your mac
-* [Pearcleaner](https://github.com/alienator88/Pearcleaner) ⭐ 14,542 | 🐛 83 | 🌐 Swift | 📅 2026-06-22 free mac app cleaner inspired by Freemacsoft's AppCleaner
+* [Mole](https://github.com/tw93/Mole) ⭐ 66,447 | 🐛 2 | 🌐 Shell | 📅 2026-09-07 Best terminal Free tool to reclaim space from your mac
+* [Pearcleaner](https://github.com/alienator88/Pearcleaner) ⭐ 14,550 | 🐛 83 | 🌐 Swift | 📅 2026-06-22 free mac app cleaner inspired by Freemacsoft's AppCleaner
 
 ### Terminal / Terminal tools
 
-* [fzf](https://github.com/junegunn/fzf) ⭐ 82,835 | 🐛 327 | 🌐 Go | 📅 2026-09-06 fuzzy finder for the terminal
-* [rg](https://github.com/BurntSushi/ripgrep) ⭐ 67,993 | 🐛 185 | 🌐 Rust | 📅 2026-08-04 like ack but faster `brew install rg`
-* [bat](https://github.com/sharkdp/bat) ⭐ 60,375 | 🐛 425 | 🌐 Rust | 📅 2026-09-04 better than cat
-* [fd](https://github.com/sharkdp/fd) ⭐ 44,321 | 🐛 204 | 🌐 Rust | 📅 2026-09-02 a better alternative to find
-* [eza](https://github.com/eza-community/eza) ⭐ 23,166 | 🐛 445 | 🌐 Rust | 📅 2026-08-06 ls but better, with colors
-* [z](https://github.com/rupa/z) ⭐ 17,044 | 🐛 108 | 🌐 Shell | 📅 2024-06-19 jump around most used folders! `brew install z`
-* [mac-cli](https://github.com/guarinogabriel/Mac-CLI) ⭐ 9,118 | 🐛 0 | 🌐 Shell | 📅 2026-02-28 Control your mac from the terminal
+* [fzf](https://github.com/junegunn/fzf) ⭐ 82,849 | 🐛 328 | 🌐 Go | 📅 2026-09-06 fuzzy finder for the terminal
+* [rg](https://github.com/BurntSushi/ripgrep) ⭐ 68,027 | 🐛 188 | 🌐 Rust | 📅 2026-08-04 like ack but faster `brew install rg`
+* [bat](https://github.com/sharkdp/bat) ⭐ 60,383 | 🐛 447 | 🌐 Rust | 📅 2026-09-04 better than cat
+* [fd](https://github.com/sharkdp/fd) ⭐ 44,330 | 🐛 200 | 🌐 Rust | 📅 2026-09-07 a better alternative to find
+* [eza](https://github.com/eza-community/eza) ⭐ 23,178 | 🐛 445 | 🌐 Rust | 📅 2026-08-06 ls but better, with colors
+* [z](https://github.com/rupa/z) ⭐ 17,042 | 🐛 108 | 🌐 Shell | 📅 2024-06-19 jump around most used folders! `brew install z`
+* [mac-cli](https://github.com/guarinogabriel/Mac-CLI) ⭐ 9,119 | 🐛 0 | 🌐 Shell | 📅 2026-02-28 Control your mac from the terminal
 * [Brew](https://brew.sh/) Package manager for Mac
 * [Warp](https://warp.dev/) (new) or [Fig.io](https://fig.io/)
 * [jq](https://stedolan.github.io/jq/) pretty print json for the terminal `brew install jq`
@@ -56,9 +56,9 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 
 ### Utils
 
-* [Lulu](https://github.com/objective-see/LuLu) ⭐ 13,139 | 🐛 524 | 🌐 Objective-C | 📅 2026-08-05 Firewall for Mac Os
-* [NeoHtop](https://github.com/Abdenasser/neohtop) ⭐ 9,347 | 🐛 20 | 🌐 Svelte | 📅 2026-03-30 Task manager
-* [Notunes](https://github.com/tombonez/noTunes) ⭐ 6,035 | 🐛 29 | 🌐 Swift | 📅 2024-08-08 Avoid auto-launching Itunes
+* [Lulu](https://github.com/objective-see/LuLu) ⭐ 13,145 | 🐛 524 | 🌐 Objective-C | 📅 2026-08-05 Firewall for Mac Os
+* [NeoHtop](https://github.com/Abdenasser/neohtop) ⭐ 9,348 | 🐛 20 | 🌐 Svelte | 📅 2026-03-30 Task manager
+* [Notunes](https://github.com/tombonez/noTunes) ⭐ 6,037 | 🐛 29 | 🌐 Swift | 📅 2024-08-08 Avoid auto-launching Itunes
 * [Cheatsheet](https://www.mediaatelier.com/CheatSheet/) Show keyboard shortcuts on every app
 * [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) Prevent Mac from sleeping
 * [Rocket](https://matthewpalmer.net/rocket/) Slack shortcuts for emojis everywhere
@@ -66,12 +66,12 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 
 ### Monitoring
 
-* [Stats](https://github.com/exelban/stats) ⭐ 41,618 | 🐛 23 | 🌐 Swift | 📅 2026-09-05 Monitor all your hardware from the Menu bar
+* [Stats](https://github.com/exelban/stats) ⭐ 41,639 | 🐛 22 | 🌐 Swift | 📅 2026-09-06 Monitor all your hardware from the Menu bar
 
 ### Audio/Video tools
 
-* [Kap](https://github.com/wulkano/Kap) ⭐ 19,348 | 🐛 256 | 🌐 TypeScript | 📅 2024-11-12 Screen recording tool (use it for quick gif making usually)
-* [NoTunes](https://github.com/tombonez/noTunes) ⭐ 6,035 | 🐛 29 | 🌐 Swift | 📅 2024-08-08 Block Itunes / Apple Music once and for all
+* [Kap](https://github.com/wulkano/Kap) ⭐ 19,352 | 🐛 256 | 🌐 TypeScript | 📅 2024-11-12 Screen recording tool (use it for quick gif making usually)
+* [NoTunes](https://github.com/tombonez/noTunes) ⭐ 6,037 | 🐛 29 | 🌐 Swift | 📅 2024-08-08 Block Itunes / Apple Music once and for all
 * [Shottr](https://shottr.cc/) for screenshots (amazing and free)
 * [OBS](https://obsproject.com/download) for screen recording / streaming
 * [Screen Studio](https://www.screen.studio/) Paid alternative to OBS for fancy looking screen recordings
@@ -87,7 +87,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 
 ### Prompting
 
-* [Handy](https://github.com/cjpais/Handy) ⭐ 31,070 | 🐛 167 | 🌐 Rust | 📅 2026-09-05 Enanched Speech-to-text for the prompting hera
+* [Handy](https://github.com/cjpais/Handy) ⭐ 31,124 | 🐛 170 | 🌐 Rust | 📅 2026-09-05 Enanched Speech-to-text for the prompting hera
 
 ### P2P
 
@@ -104,7 +104,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 
 ### Desktop management apps
 
-* [Easy-Move-Resize](https://github.com/dmarcotte/easy-move-resize) ⭐ 1,333 | 🐛 37 | 🌐 Objective-C | 📅 2026-05-11 Use hot key to move windows around, Linux style
+* [Easy-Move-Resize](https://github.com/dmarcotte/easy-move-resize) ⭐ 1,334 | 🐛 37 | 🌐 Objective-C | 📅 2026-05-11 Use hot key to move windows around, Linux style
 * [AltTab](https://alt-tab-macos.netlify.app/) Cmd+Tab, supercharged `brew install --cask alt-tab`
 * [Raycast](https://raycast.com) Spotlight on steroids
 * [Rectangle](https://rectangleapp.com/) Window management done properly
@@ -119,10 +119,10 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 
 ### Developer tools
 
-* [nvm](https://github.com/nvm-sh/nvm) ⭐ 94,951 | 🐛 389 | 🌐 Shell | 📅 2026-09-04
-* [nvm](https://github.com/nvm-sh/nvm#install--update-script) ⭐ 94,951 | 🐛 389 | 🌐 Shell | 📅 2026-09-04
-* [LazyGit](https://github.com/jesseduffield/lazygit) ⭐ 82,045 | 🐛 1,027 | 🌐 Go | 📅 2026-09-05 Git UI in terminal
-* [jj](https://github.com/jj-vcs/jj) ⭐ 31,421 | 🐛 1,224 | 🌐 Rust | 📅 2026-09-06 git on steroids `brew install jj`
+* [nvm](https://github.com/nvm-sh/nvm) ⭐ 95,009 | 🐛 390 | 🌐 Shell | 📅 2026-09-04
+* [nvm](https://github.com/nvm-sh/nvm#install--update-script) ⭐ 95,009 | 🐛 390 | 🌐 Shell | 📅 2026-09-04
+* [LazyGit](https://github.com/jesseduffield/lazygit) ⭐ 82,087 | 🐛 1,030 | 🌐 Go | 📅 2026-09-07 Git UI in terminal
+* [jj](https://github.com/jj-vcs/jj) ⭐ 31,432 | 🐛 1,224 | 🌐 Rust | 📅 2026-09-07 git on steroids `brew install jj`
 * [GIT](https://git-scm.com/) Global information tracker  `brew install git`
 * [NodeJS](https://nodejs.org/en/download)
 * [Cursor (paid)](https://www.cursor.com/) Fork of VS Code enhanced with AI-assisted capabilities.
@@ -159,4 +159,4 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
