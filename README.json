@@ -15,11 +15,11 @@
             "id": 663900193,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-01T19:46:13Z",
-            "open_issues": 70,
+            "last_commit": "2026-09-08T00:58:12Z",
+            "open_issues": 72,
             "owner": "sxyazi",
             "repo": "yazi",
-            "stars": 41996,
+            "stars": 42039,
             "topics": [
               "android",
               "asyncio",
@@ -66,7 +66,7 @@
             "open_issues": 23,
             "owner": "MonitorControl",
             "repo": "MonitorControl",
-            "stars": 34122,
+            "stars": 34128,
             "topics": [
               "apple",
               "brightness",
@@ -108,11 +108,11 @@
             "id": 1062356571,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-07T02:55:21Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-07T18:16:17Z",
+            "open_issues": 4,
             "owner": "tw93",
             "repo": "Mole",
-            "stars": 66447,
+            "stars": 66554,
             "topics": [
               "analyzer",
               "appcleaner",
@@ -150,10 +150,10 @@
             "language": "Swift",
             "license": "NOASSERTION",
             "last_commit": "2026-06-22T18:49:18Z",
-            "open_issues": 83,
+            "open_issues": 84,
             "owner": "alienator88",
             "repo": "Pearcleaner",
-            "stars": 14550,
+            "stars": 14559,
             "topics": []
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
@@ -177,10 +177,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-06T23:36:30Z",
-            "open_issues": 328,
+            "open_issues": 329,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82849,
+            "stars": 82865,
             "topics": [
               "bash",
               "cli",
@@ -209,10 +209,10 @@
             "language": "Rust",
             "license": "Unlicense",
             "last_commit": "2026-08-04T13:59:44Z",
-            "open_issues": 188,
+            "open_issues": 190,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 68027,
+            "stars": 68074,
             "topics": [
               "cli",
               "command-line",
@@ -241,10 +241,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T19:10:30Z",
-            "open_issues": 447,
+            "open_issues": 510,
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60383,
+            "stars": 60389,
             "topics": [
               "cli",
               "command-line",
@@ -270,11 +270,11 @@
             "id": 90793418,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T05:00:50Z",
-            "open_issues": 200,
+            "last_commit": "2026-09-07T17:42:39Z",
+            "open_issues": 202,
             "owner": "sharkdp",
             "repo": "fd",
-            "stars": 44330,
+            "stars": 44335,
             "topics": [
               "cli",
               "command-line",
@@ -305,7 +305,7 @@
             "open_issues": 445,
             "owner": "eza-community",
             "repo": "eza",
-            "stars": 23178,
+            "stars": 23187,
             "topics": [
               "color",
               "command-line",
@@ -337,7 +337,7 @@
             "open_issues": 108,
             "owner": "rupa",
             "repo": "z",
-            "stars": 17042,
+            "stars": 17043,
             "topics": []
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
@@ -358,7 +358,7 @@
             "open_issues": 0,
             "owner": "guarinogabriel",
             "repo": "Mac-CLI",
-            "stars": 9119,
+            "stars": 9120,
             "topics": [
               "bash",
               "cli",
@@ -393,7 +393,7 @@
             "open_issues": 524,
             "owner": "objective-see",
             "repo": "LuLu",
-            "stars": 13145,
+            "stars": 13147,
             "topics": []
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
@@ -414,7 +414,7 @@
             "open_issues": 20,
             "owner": "Abdenasser",
             "repo": "neohtop",
-            "stars": 9348,
+            "stars": 9351,
             "topics": [
               "activity",
               "btop",
@@ -444,7 +444,7 @@
             "open_issues": 29,
             "owner": "tombonez",
             "repo": "noTunes",
-            "stars": 6037,
+            "stars": 6039,
             "topics": [
               "itunes",
               "macos",
@@ -513,7 +513,7 @@
             "open_issues": 29,
             "owner": "tombonez",
             "repo": "noTunes",
-            "stars": 6037,
+            "stars": 6039,
             "topics": [
               "itunes",
               "macos",
@@ -541,10 +541,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-05T04:10:24Z",
-            "open_issues": 170,
+            "open_issues": 171,
             "owner": "cjpais",
             "repo": "Handy",
-            "stars": 31124,
+            "stars": 31168,
             "topics": [
               "accessibility",
               "cross-platform",
@@ -603,7 +603,7 @@
             "open_issues": 390,
             "owner": "nvm-sh",
             "repo": "nvm",
-            "stars": 95009,
+            "stars": 95020,
             "topics": [
               "bash",
               "install",
@@ -638,7 +638,7 @@
             "open_issues": 390,
             "owner": "nvm-sh",
             "repo": "nvm",
-            "stars": 95009,
+            "stars": 95020,
             "topics": [
               "bash",
               "install",
@@ -669,11 +669,11 @@
             "id": 134017286,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-07T05:36:29Z",
+            "last_commit": "2026-09-07T17:35:44Z",
             "open_issues": 1030,
             "owner": "jesseduffield",
             "repo": "lazygit",
-            "stars": 82087,
+            "stars": 82121,
             "topics": [
               "cli",
               "git",
@@ -694,11 +694,11 @@
             "id": 322484700,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T06:45:31Z",
-            "open_issues": 1224,
+            "last_commit": "2026-09-08T04:41:26Z",
+            "open_issues": 1223,
             "owner": "jj-vcs",
             "repo": "jj",
-            "stars": 31432,
+            "stars": 31451,
             "topics": []
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
@@ -708,7 +708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T06:57:07.610Z",
+    "last_updated": "2026-09-08T06:52:23.850Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of my favorite (free) apps for MacOs",
