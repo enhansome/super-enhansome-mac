@@ -19,7 +19,7 @@
             "open_issues": 66,
             "owner": "sxyazi",
             "repo": "yazi",
-            "stars": 43290,
+            "stars": 43316,
             "topics": [
               "android",
               "asyncio",
@@ -66,7 +66,7 @@
             "open_issues": 30,
             "owner": "MonitorControl",
             "repo": "MonitorControl",
-            "stars": 34663,
+            "stars": 34672,
             "topics": [
               "apple",
               "brightness",
@@ -108,11 +108,11 @@
             "id": 1062356571,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-08T07:54:14Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-09T07:58:31Z",
+            "open_issues": 6,
             "owner": "tw93",
             "repo": "Mole",
-            "stars": 74232,
+            "stars": 74333,
             "topics": [
               "analyzer",
               "appcleaner",
@@ -121,6 +121,8 @@
               "cleanmymac",
               "command-line",
               "daisydisk",
+              "dsh-plugin",
+              "gemini-cli-extension",
               "istat",
               "mac",
               "macos",
@@ -130,8 +132,6 @@
               "pearcleaner",
               "sensei",
               "shell",
-              "swift",
-              "swiftui",
               "uninstall",
               "windows"
             ]
@@ -154,7 +154,7 @@
             "open_issues": 96,
             "owner": "alienator88",
             "repo": "Pearcleaner",
-            "stars": 15074,
+            "stars": 15088,
             "topics": []
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
@@ -181,7 +181,7 @@
             "open_issues": 333,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 84070,
+            "stars": 84094,
             "topics": [
               "bash",
               "cli",
@@ -213,7 +213,7 @@
             "open_issues": 225,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 69890,
+            "stars": 69925,
             "topics": [
               "cli",
               "command-line",
@@ -245,7 +245,7 @@
             "open_issues": 563,
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 61229,
+            "stars": 61251,
             "topics": [
               "cli",
               "command-line",
@@ -271,11 +271,11 @@
             "id": 90793418,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T07:23:01Z",
+            "last_commit": "2026-11-09T06:43:32Z",
             "open_issues": 205,
             "owner": "sharkdp",
             "repo": "fd",
-            "stars": 45115,
+            "stars": 45128,
             "topics": [
               "cli",
               "command-line",
@@ -306,7 +306,7 @@
             "open_issues": 479,
             "owner": "eza-community",
             "repo": "eza",
-            "stars": 23820,
+            "stars": 23832,
             "topics": [
               "color",
               "command-line",
@@ -394,7 +394,7 @@
             "open_issues": 540,
             "owner": "objective-see",
             "repo": "LuLu",
-            "stars": 13525,
+            "stars": 13531,
             "topics": []
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
@@ -415,7 +415,7 @@
             "open_issues": 12,
             "owner": "Abdenasser",
             "repo": "neohtop",
-            "stars": 9463,
+            "stars": 9477,
             "topics": [
               "activity",
               "btop",
@@ -542,10 +542,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-11-07T00:19:26Z",
-            "open_issues": 209,
+            "open_issues": 224,
             "owner": "cjpais",
             "repo": "Handy",
-            "stars": 37972,
+            "stars": 38101,
             "topics": [
               "accessibility",
               "cross-platform",
@@ -604,7 +604,7 @@
             "open_issues": 374,
             "owner": "nvm-sh",
             "repo": "nvm",
-            "stars": 95765,
+            "stars": 95772,
             "topics": [
               "bash",
               "install",
@@ -639,7 +639,7 @@
             "open_issues": 374,
             "owner": "nvm-sh",
             "repo": "nvm",
-            "stars": 95765,
+            "stars": 95772,
             "topics": [
               "bash",
               "install",
@@ -670,11 +670,11 @@
             "id": 134017286,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-08T07:49:07Z",
-            "open_issues": 1067,
+            "last_commit": "2026-11-08T19:13:23Z",
+            "open_issues": 1069,
             "owner": "jesseduffield",
             "repo": "lazygit",
-            "stars": 83730,
+            "stars": 83746,
             "topics": [
               "cli",
               "git",
@@ -695,11 +695,11 @@
             "id": 322484700,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-08T07:50:10Z",
-            "open_issues": 1230,
+            "last_commit": "2026-11-09T08:28:37Z",
+            "open_issues": 1228,
             "owner": "jj-vcs",
             "repo": "jj",
-            "stars": 32401,
+            "stars": 32413,
             "topics": []
           },
           "first_seen": "2026-08-28T13:43:26.058Z"
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T08:30:20.552Z",
+    "last_updated": "2026-11-09T09:01:12.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of my favorite (free) apps for MacOs",
@@ -718,7 +718,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-02-15T14:52:37Z",
-      "open_issues": 18,
+      "open_issues": 19,
       "owner": "tonnoz",
       "repo": "super-awesome-mac",
       "stars": 531,
